@@ -1,0 +1,158 @@
+alcoholic_beverages
+alliums
+almond butter
+almond milk
+apple
+artichoke
+asian_dishes
+asparagus
+avocado
+baked_goods
+banana
+barbecue sauce
+basic_condiments
+beans
+beef
+beef roast
+beef steak
+bell pepper
+berries
+black beans
+bok choy
+brazil nuts
+breakfast_grains
+breakfast_items
+brie cheese
+brussels sprouts
+cakes_pastries
+canned soup
+cashew butter
+celery
+cheddar cheese
+chia seeds
+chicken breast
+chicken liver
+chicken thigh
+chicken wing
+citrus_fruits
+coconut milk
+coconut water
+cold_beverages
+cooking_oils
+corn
+cottage cheese
+couscous
+cream cheese
+cream_products
+cruciferous_vegetables
+cucumber
+cured_meats
+dragon fruit
+dried_fruits
+egg noodles
+exotic_fish
+feta cheese
+fish_products
+flax seeds
+flour
+freshwater_fish
+fried rice
+frozen yogurt
+frozen_dairy
+game_meat
+ginger
+gnocchi
+goat cheese
+gouda cheese
+grape
+green beans
+ground beef
+ground chicken
+ground pork
+heavy cream
+herbs
+horseradish
+hot sauce
+hot_beverages
+ice cream
+indian_dishes
+italian_dishes
+kidney beans
+leafy_greens
+lentils_peas
+macadamia nuts
+mahi mahi
+maple syrup
+mediterranean_dishes
+melons
+mexican_dishes
+milk
+mollusks
+mozzarella cheese
+mushroom
+nut_butters
+oat milk
+oily_fish
+okra
+olive oil
+parmesan cheese
+passion fruit
+pasta
+peanut butter
+pear
+peas
+peppers
+persimmon
+pine nuts
+pinto beans
+polenta
+pomegranate
+pork belly
+pork chop
+pork ribs
+pork shoulder
+pork tenderloin
+poultry_other
+preserved_foods
+puddings_creams
+pumpkin seeds
+ramen noodles
+red snapper
+rice
+rice milk
+rice noodles
+ricotta cheese
+root_vegetables
+sea bass
+sea urchin
+sesame seeds
+shellfish
+short ribs
+snack_foods
+soba noodles
+sour cream
+soy milk
+soy sauce
+soy_products
+spanish_dishes
+sparkling water
+split peas
+squash
+star fruit
+stone_fruits
+sunflower seeds
+sweet potato
+sweet_treats
+sweeteners
+swiss cheese
+tortilla
+tree_nuts
+tropical_fruits
+vinegar
+wasabi
+water_variants
+wheat
+white_fish
+whole chicken
+whole_grains
+yogurt

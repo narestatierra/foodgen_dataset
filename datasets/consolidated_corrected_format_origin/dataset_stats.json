@@ -1,0 +1,3843 @@
+{
+  "total_categories": 158,
+  "splits": {
+    "train": {
+      "polenta": {
+        "total_files": 51,
+        "source_breakdown": {
+          "polenta": 51
+        }
+      },
+      "apple": {
+        "total_files": 58,
+        "source_breakdown": {
+          "apple": 58
+        }
+      },
+      "egg noodles": {
+        "total_files": 42,
+        "source_breakdown": {
+          "egg noodles": 42
+        }
+      },
+      "leafy_greens": {
+        "total_files": 162,
+        "source_breakdown": {
+          "kale": 53,
+          "spinach": 51,
+          "lettuce": 58
+        }
+      },
+      "game_meat": {
+        "total_files": 165,
+        "source_breakdown": {
+          "lamb": 59,
+          "venison": 44,
+          "rabbit": 62
+        }
+      },
+      "breakfast_grains": {
+        "total_files": 164,
+        "source_breakdown": {
+          "granola": 58,
+          "oatmeal": 51,
+          "cereal": 55
+        }
+      },
+      "breakfast_items": {
+        "total_files": 103,
+        "source_breakdown": {
+          "pancake": 52,
+          "waffle": 51
+        }
+      },
+      "berries": {
+        "total_files": 276,
+        "source_breakdown": {
+          "blueberry": 58,
+          "strawberry": 58,
+          "raspberry": 51,
+          "blackberry": 54,
+          "cranberry": 55
+        }
+      },
+      "alcoholic_beverages": {
+        "total_files": 161,
+        "source_breakdown": {
+          "spirits": 44,
+          "beer": 58,
+          "wine": 59
+        }
+      },
+      "coconut milk": {
+        "total_files": 53,
+        "source_breakdown": {
+          "coconut milk": 53
+        }
+      },
+      "black beans": {
+        "total_files": 51,
+        "source_breakdown": {
+          "black beans": 51
+        }
+      },
+      "mozzarella cheese": {
+        "total_files": 52,
+        "source_breakdown": {
+          "mozzarella cheese": 52
+        }
+      },
+      "bell pepper": {
+        "total_files": 56,
+        "source_breakdown": {
+          "bell pepper": 56
+        }
+      },
+      "pear": {
+        "total_files": 58,
+        "source_breakdown": {
+          "pear": 58
+        }
+      },
+      "white_fish": {
+        "total_files": 220,
+        "source_breakdown": {
+          "sole": 58,
+          "halibut": 49,
+          "flounder": 60,
+          "cod": 53
+        }
+      },
+      "gnocchi": {
+        "total_files": 51,
+        "source_breakdown": {
+          "gnocchi": 51
+        }
+      },
+      "peppers": {
+        "total_files": 116,
+        "source_breakdown": {
+          "habanero": 58,
+          "jalape\u00f1o": 58
+        }
+      },
+      "freshwater_fish": {
+        "total_files": 175,
+        "source_breakdown": {
+          "perch": 56,
+          "catfish": 60,
+          "carp": 59
+        }
+      },
+      "avocado": {
+        "total_files": 54,
+        "source_breakdown": {
+          "avocado": 54
+        }
+      },
+      "basic_condiments": {
+        "total_files": 160,
+        "source_breakdown": {
+          "mayo": 49,
+          "mustard": 58,
+          "ketchup": 53
+        }
+      },
+      "brussels sprouts": {
+        "total_files": 51,
+        "source_breakdown": {
+          "brussels sprouts": 51
+        }
+      },
+      "mollusks": {
+        "total_files": 333,
+        "source_breakdown": {
+          "clams": 59,
+          "squid": 60,
+          "scallops": 57,
+          "mussels": 46,
+          "octopus": 60,
+          "oysters": 51
+        }
+      },
+      "shellfish": {
+        "total_files": 286,
+        "source_breakdown": {
+          "crab": 59,
+          "crawfish": 56,
+          "lobster": 59,
+          "shrimp": 56,
+          "prawns": 56
+        }
+      },
+      "pomegranate": {
+        "total_files": 57,
+        "source_breakdown": {
+          "pomegranate": 57
+        }
+      },
+      "indian_dishes": {
+        "total_files": 103,
+        "source_breakdown": {
+          "curry": 56,
+          "naan": 47
+        }
+      },
+      "peas": {
+        "total_files": 53,
+        "source_breakdown": {
+          "peas": 53
+        }
+      },
+      "couscous": {
+        "total_files": 56,
+        "source_breakdown": {
+          "couscous": 56
+        }
+      },
+      "maple syrup": {
+        "total_files": 58,
+        "source_breakdown": {
+          "maple syrup": 58
+        }
+      },
+      "sea bass": {
+        "total_files": 58,
+        "source_breakdown": {
+          "sea bass": 58
+        }
+      },
+      "herbs": {
+        "total_files": 498,
+        "source_breakdown": {
+          "rosemary": 59,
+          "mint": 60,
+          "parsley": 57,
+          "basil": 53,
+          "oregano": 56,
+          "thyme": 49,
+          "fennel": 51,
+          "dill": 59,
+          "sage": 54
+        }
+      },
+      "flour": {
+        "total_files": 55,
+        "source_breakdown": {
+          "flour": 55
+        }
+      },
+      "beef roast": {
+        "total_files": 50,
+        "source_breakdown": {
+          "beef roast": 50
+        }
+      },
+      "brie cheese": {
+        "total_files": 60,
+        "source_breakdown": {
+          "brie cheese": 60
+        }
+      },
+      "root_vegetables": {
+        "total_files": 104,
+        "source_breakdown": {
+          "beet": 53,
+          "carrot": 51
+        }
+      },
+      "whole_grains": {
+        "total_files": 500,
+        "source_breakdown": {
+          "farro": 51,
+          "teff": 51,
+          "millet": 59,
+          "oats": 57,
+          "bulgur": 52,
+          "spelt": 56,
+          "amaranth": 58,
+          "barley": 58,
+          "buckwheat": 58
+        }
+      },
+      "peanut butter": {
+        "total_files": 56,
+        "source_breakdown": {
+          "peanut butter": 56
+        }
+      },
+      "mediterranean_dishes": {
+        "total_files": 105,
+        "source_breakdown": {
+          "kebab": 51,
+          "gyros": 54
+        }
+      },
+      "exotic_fish": {
+        "total_files": 56,
+        "source_breakdown": {
+          "swordfish": 56
+        }
+      },
+      "dried_fruits": {
+        "total_files": 158,
+        "source_breakdown": {
+          "fig": 49,
+          "date": 53,
+          "prune": 56
+        }
+      },
+      "tree_nuts": {
+        "total_files": 326,
+        "source_breakdown": {
+          "pecans": 51,
+          "walnuts": 51,
+          "almonds": 58,
+          "hazelnuts": 56,
+          "cashews": 51,
+          "pistachios": 59
+        }
+      },
+      "green beans": {
+        "total_files": 46,
+        "source_breakdown": {
+          "green beans": 46
+        }
+      },
+      "cakes_pastries": {
+        "total_files": 323,
+        "source_breakdown": {
+          "donut": 59,
+          "cupcake": 52,
+          "pie": 53,
+          "muffin": 49,
+          "tart": 53,
+          "cake": 57
+        }
+      },
+      "oily_fish": {
+        "total_files": 268,
+        "source_breakdown": {
+          "anchovies": 51,
+          "herring": 54,
+          "sardines": 52,
+          "mackerel": 54,
+          "salmon": 57
+        }
+      },
+      "flax seeds": {
+        "total_files": 59,
+        "source_breakdown": {
+          "flax seeds": 59
+        }
+      },
+      "mushroom": {
+        "total_files": 58,
+        "source_breakdown": {
+          "mushroom": 58
+        }
+      },
+      "cottage cheese": {
+        "total_files": 56,
+        "source_breakdown": {
+          "cottage cheese": 56
+        }
+      },
+      "ground pork": {
+        "total_files": 55,
+        "source_breakdown": {
+          "ground pork": 55
+        }
+      },
+      "water_variants": {
+        "total_files": 54,
+        "source_breakdown": {
+          "water": 54
+        }
+      },
+      "tortilla": {
+        "total_files": 57,
+        "source_breakdown": {
+          "tortilla": 57
+        }
+      },
+      "mahi mahi": {
+        "total_files": 56,
+        "source_breakdown": {
+          "mahi mahi": 56
+        }
+      },
+      "cream cheese": {
+        "total_files": 54,
+        "source_breakdown": {
+          "cream cheese": 54
+        }
+      },
+      "okra": {
+        "total_files": 48,
+        "source_breakdown": {
+          "okra": 48
+        }
+      },
+      "puddings_creams": {
+        "total_files": 161,
+        "source_breakdown": {
+          "mousse": 56,
+          "pudding": 54,
+          "custard": 51
+        }
+      },
+      "citrus_fruits": {
+        "total_files": 230,
+        "source_breakdown": {
+          "lemon": 56,
+          "grapefruit": 55,
+          "lime": 59,
+          "orange": 60
+        }
+      },
+      "rice": {
+        "total_files": 60,
+        "source_breakdown": {
+          "rice": 60
+        }
+      },
+      "tropical_fruits": {
+        "total_files": 447,
+        "source_breakdown": {
+          "guava": 61,
+          "jackfruit": 51,
+          "lychee": 59,
+          "durian": 53,
+          "rambutan": 57,
+          "mango": 57,
+          "papaya": 51,
+          "pineapple": 58
+        }
+      },
+      "snack_foods": {
+        "total_files": 162,
+        "source_breakdown": {
+          "chips": 49,
+          "popcorn": 53,
+          "pretzels": 60
+        }
+      },
+      "pasta": {
+        "total_files": 459,
+        "source_breakdown": {
+          "linguine": 55,
+          "ravioli": 53,
+          "fettuccine": 51,
+          "spaghetti": 50,
+          "macaroni": 54,
+          "farfalle": 58,
+          "fusilli": 58,
+          "rigatoni": 52,
+          "penne": 28
+        }
+      },
+      "red snapper": {
+        "total_files": 53,
+        "source_breakdown": {
+          "red snapper": 53
+        }
+      },
+      "pine nuts": {
+        "total_files": 55,
+        "source_breakdown": {
+          "pine nuts": 55
+        }
+      },
+      "mexican_dishes": {
+        "total_files": 159,
+        "source_breakdown": {
+          "burritos": 49,
+          "quesadilla": 54,
+          "tacos": 56
+        }
+      },
+      "alliums": {
+        "total_files": 285,
+        "source_breakdown": {
+          "scallion": 58,
+          "onion": 57,
+          "chives": 52,
+          "garlic": 59,
+          "leek": 59
+        }
+      },
+      "pork tenderloin": {
+        "total_files": 42,
+        "source_breakdown": {
+          "pork tenderloin": 42
+        }
+      },
+      "olive oil": {
+        "total_files": 55,
+        "source_breakdown": {
+          "olive oil": 55
+        }
+      },
+      "canned soup": {
+        "total_files": 51,
+        "source_breakdown": {
+          "canned soup": 51
+        }
+      },
+      "cruciferous_vegetables": {
+        "total_files": 168,
+        "source_breakdown": {
+          "cauliflower": 52,
+          "cabbage": 58,
+          "broccoli": 58
+        }
+      },
+      "milk": {
+        "total_files": 57,
+        "source_breakdown": {
+          "milk": 57
+        }
+      },
+      "ground beef": {
+        "total_files": 53,
+        "source_breakdown": {
+          "ground beef": 53
+        }
+      },
+      "chicken breast": {
+        "total_files": 49,
+        "source_breakdown": {
+          "chicken breast": 49
+        }
+      },
+      "sea urchin": {
+        "total_files": 60,
+        "source_breakdown": {
+          "sea urchin": 60
+        }
+      },
+      "sparkling water": {
+        "total_files": 53,
+        "source_breakdown": {
+          "sparkling water": 53
+        }
+      },
+      "melons": {
+        "total_files": 164,
+        "source_breakdown": {
+          "honeydew": 58,
+          "watermelon": 56,
+          "cantaloupe": 50
+        }
+      },
+      "preserved_foods": {
+        "total_files": 103,
+        "source_breakdown": {
+          "pickles": 50,
+          "olives": 53
+        }
+      },
+      "horseradish": {
+        "total_files": 52,
+        "source_breakdown": {
+          "horseradish": 52
+        }
+      },
+      "baked_goods": {
+        "total_files": 276,
+        "source_breakdown": {
+          "bagel": 54,
+          "croissant": 53,
+          "bread": 53,
+          "crackers": 58,
+          "baguette": 58
+        }
+      },
+      "ramen noodles": {
+        "total_files": 52,
+        "source_breakdown": {
+          "ramen noodles": 52
+        }
+      },
+      "feta cheese": {
+        "total_files": 58,
+        "source_breakdown": {
+          "feta cheese": 58
+        }
+      },
+      "cured_meats": {
+        "total_files": 333,
+        "source_breakdown": {
+          "ham": 56,
+          "pepperoni": 58,
+          "prosciutto": 57,
+          "sausage": 56,
+          "bacon": 53,
+          "chorizo": 53
+        }
+      },
+      "poultry_other": {
+        "total_files": 111,
+        "source_breakdown": {
+          "duck": 56,
+          "goose": 55
+        }
+      },
+      "gouda cheese": {
+        "total_files": 46,
+        "source_breakdown": {
+          "gouda cheese": 46
+        }
+      },
+      "frozen_dairy": {
+        "total_files": 53,
+        "source_breakdown": {
+          "gelato": 53
+        }
+      },
+      "cucumber": {
+        "total_files": 51,
+        "source_breakdown": {
+          "cucumber": 51
+        }
+      },
+      "sweet potato": {
+        "total_files": 46,
+        "source_breakdown": {
+          "sweet potato": 46
+        }
+      },
+      "pork chop": {
+        "total_files": 49,
+        "source_breakdown": {
+          "pork chop": 49
+        }
+      },
+      "beef steak": {
+        "total_files": 56,
+        "source_breakdown": {
+          "beef steak": 56
+        }
+      },
+      "chia seeds": {
+        "total_files": 56,
+        "source_breakdown": {
+          "chia seeds": 56
+        }
+      },
+      "italian_dishes": {
+        "total_files": 161,
+        "source_breakdown": {
+          "risotto": 49,
+          "pasta": 54,
+          "pizza": 58
+        }
+      },
+      "vinegar": {
+        "total_files": 56,
+        "source_breakdown": {
+          "vinegar": 56
+        }
+      },
+      "wasabi": {
+        "total_files": 55,
+        "source_breakdown": {
+          "wasabi": 55
+        }
+      },
+      "ice cream": {
+        "total_files": 57,
+        "source_breakdown": {
+          "ice cream": 57
+        }
+      },
+      "almond milk": {
+        "total_files": 58,
+        "source_breakdown": {
+          "almond milk": 58
+        }
+      },
+      "macadamia nuts": {
+        "total_files": 51,
+        "source_breakdown": {
+          "macadamia nuts": 51
+        }
+      },
+      "lentils_peas": {
+        "total_files": 101,
+        "source_breakdown": {
+          "edamame": 44,
+          "lentils": 57
+        }
+      },
+      "ricotta cheese": {
+        "total_files": 56,
+        "source_breakdown": {
+          "ricotta cheese": 56
+        }
+      },
+      "sesame seeds": {
+        "total_files": 58,
+        "source_breakdown": {
+          "sesame seeds": 58
+        }
+      },
+      "fried rice": {
+        "total_files": 51,
+        "source_breakdown": {
+          "fried rice": 51
+        }
+      },
+      "stone_fruits": {
+        "total_files": 222,
+        "source_breakdown": {
+          "plum": 57,
+          "cherry": 58,
+          "apricot": 50,
+          "peach": 57
+        }
+      },
+      "ground chicken": {
+        "total_files": 50,
+        "source_breakdown": {
+          "ground chicken": 50
+        }
+      },
+      "spanish_dishes": {
+        "total_files": 52,
+        "source_breakdown": {
+          "paella": 52
+        }
+      },
+      "nut_butters": {
+        "total_files": 58,
+        "source_breakdown": {
+          "tahini": 58
+        }
+      },
+      "soy_products": {
+        "total_files": 112,
+        "source_breakdown": {
+          "tempeh": 57,
+          "tofu": 55
+        }
+      },
+      "barbecue sauce": {
+        "total_files": 46,
+        "source_breakdown": {
+          "barbecue sauce": 46
+        }
+      },
+      "sweet_treats": {
+        "total_files": 227,
+        "source_breakdown": {
+          "brownie": 58,
+          "chocolate": 56,
+          "cookie": 60,
+          "candy": 53
+        }
+      },
+      "oat milk": {
+        "total_files": 58,
+        "source_breakdown": {
+          "oat milk": 58
+        }
+      },
+      "brazil nuts": {
+        "total_files": 51,
+        "source_breakdown": {
+          "brazil nuts": 51
+        }
+      },
+      "cold_beverages": {
+        "total_files": 147,
+        "source_breakdown": {
+          "soda": 54,
+          "juice": 44,
+          "smoothie": 49
+        }
+      },
+      "dragon fruit": {
+        "total_files": 55,
+        "source_breakdown": {
+          "dragon fruit": 55
+        }
+      },
+      "beef": {
+        "total_files": 46,
+        "source_breakdown": {
+          "brisket": 46
+        }
+      },
+      "short ribs": {
+        "total_files": 49,
+        "source_breakdown": {
+          "short ribs": 49
+        }
+      },
+      "hot sauce": {
+        "total_files": 53,
+        "source_breakdown": {
+          "hot sauce": 53
+        }
+      },
+      "hot_beverages": {
+        "total_files": 168,
+        "source_breakdown": {
+          "tea": 56,
+          "coffee": 52,
+          "espresso": 60
+        }
+      },
+      "wheat": {
+        "total_files": 58,
+        "source_breakdown": {
+          "wheat": 58
+        }
+      },
+      "swiss cheese": {
+        "total_files": 55,
+        "source_breakdown": {
+          "swiss cheese": 55
+        }
+      },
+      "goat cheese": {
+        "total_files": 51,
+        "source_breakdown": {
+          "goat cheese": 51
+        }
+      },
+      "rice noodles": {
+        "total_files": 49,
+        "source_breakdown": {
+          "rice noodles": 49
+        }
+      },
+      "sweeteners": {
+        "total_files": 107,
+        "source_breakdown": {
+          "honey": 54,
+          "jam": 53
+        }
+      },
+      "parmesan cheese": {
+        "total_files": 58,
+        "source_breakdown": {
+          "parmesan cheese": 58
+        }
+      },
+      "chicken liver": {
+        "total_files": 44,
+        "source_breakdown": {
+          "chicken liver": 44
+        }
+      },
+      "pinto beans": {
+        "total_files": 49,
+        "source_breakdown": {
+          "pinto beans": 49
+        }
+      },
+      "cream_products": {
+        "total_files": 54,
+        "source_breakdown": {
+          "butter": 54
+        }
+      },
+      "fish_products": {
+        "total_files": 108,
+        "source_breakdown": {
+          "roe": 57,
+          "caviar": 51
+        }
+      },
+      "passion fruit": {
+        "total_files": 55,
+        "source_breakdown": {
+          "passion fruit": 55
+        }
+      },
+      "cheddar cheese": {
+        "total_files": 53,
+        "source_breakdown": {
+          "cheddar cheese": 53
+        }
+      },
+      "split peas": {
+        "total_files": 53,
+        "source_breakdown": {
+          "split peas": 53
+        }
+      },
+      "yogurt": {
+        "total_files": 52,
+        "source_breakdown": {
+          "yogurt": 52
+        }
+      },
+      "star fruit": {
+        "total_files": 58,
+        "source_breakdown": {
+          "star fruit": 58
+        }
+      },
+      "soy sauce": {
+        "total_files": 55,
+        "source_breakdown": {
+          "soy sauce": 55
+        }
+      },
+      "beans": {
+        "total_files": 98,
+        "source_breakdown": {
+          "beans": 48,
+          "chickpeas": 50
+        }
+      },
+      "chicken wing": {
+        "total_files": 45,
+        "source_breakdown": {
+          "chicken wing": 45
+        }
+      },
+      "heavy cream": {
+        "total_files": 52,
+        "source_breakdown": {
+          "heavy cream": 52
+        }
+      },
+      "corn": {
+        "total_files": 54,
+        "source_breakdown": {
+          "corn": 54
+        }
+      },
+      "sunflower seeds": {
+        "total_files": 51,
+        "source_breakdown": {
+          "sunflower seeds": 51
+        }
+      },
+      "asian_dishes": {
+        "total_files": 212,
+        "source_breakdown": {
+          "sushi": 56,
+          "ramen": 52,
+          "dumplings": 53,
+          "pho": 51
+        }
+      },
+      "frozen yogurt": {
+        "total_files": 56,
+        "source_breakdown": {
+          "frozen yogurt": 56
+        }
+      },
+      "artichoke": {
+        "total_files": 56,
+        "source_breakdown": {
+          "artichoke": 56
+        }
+      },
+      "asparagus": {
+        "total_files": 52,
+        "source_breakdown": {
+          "asparagus": 52
+        }
+      },
+      "celery": {
+        "total_files": 54,
+        "source_breakdown": {
+          "celery": 54
+        }
+      },
+      "banana": {
+        "total_files": 54,
+        "source_breakdown": {
+          "banana": 54
+        }
+      },
+      "chicken thigh": {
+        "total_files": 44,
+        "source_breakdown": {
+          "chicken thigh": 44
+        }
+      },
+      "cashew butter": {
+        "total_files": 46,
+        "source_breakdown": {
+          "cashew butter": 46
+        }
+      },
+      "bok choy": {
+        "total_files": 53,
+        "source_breakdown": {
+          "bok choy": 53
+        }
+      },
+      "sour cream": {
+        "total_files": 56,
+        "source_breakdown": {
+          "sour cream": 56
+        }
+      },
+      "coconut water": {
+        "total_files": 54,
+        "source_breakdown": {
+          "coconut water": 54
+        }
+      },
+      "ginger": {
+        "total_files": 57,
+        "source_breakdown": {
+          "ginger": 57
+        }
+      },
+      "soba noodles": {
+        "total_files": 46,
+        "source_breakdown": {
+          "soba noodles": 46
+        }
+      },
+      "grape": {
+        "total_files": 57,
+        "source_breakdown": {
+          "grape": 57
+        }
+      },
+      "pork ribs": {
+        "total_files": 55,
+        "source_breakdown": {
+          "pork ribs": 55
+        }
+      },
+      "squash": {
+        "total_files": 52,
+        "source_breakdown": {
+          "zucchini": 52
+        }
+      },
+      "soy milk": {
+        "total_files": 51,
+        "source_breakdown": {
+          "soy milk": 51
+        }
+      },
+      "whole chicken": {
+        "total_files": 49,
+        "source_breakdown": {
+          "whole chicken": 49
+        }
+      },
+      "kidney beans": {
+        "total_files": 49,
+        "source_breakdown": {
+          "kidney beans": 49
+        }
+      },
+      "rice milk": {
+        "total_files": 49,
+        "source_breakdown": {
+          "rice milk": 49
+        }
+      },
+      "persimmon": {
+        "total_files": 58,
+        "source_breakdown": {
+          "persimmon": 58
+        }
+      },
+      "pork shoulder": {
+        "total_files": 44,
+        "source_breakdown": {
+          "pork shoulder": 44
+        }
+      },
+      "almond butter": {
+        "total_files": 51,
+        "source_breakdown": {
+          "almond butter": 51
+        }
+      },
+      "pork belly": {
+        "total_files": 51,
+        "source_breakdown": {
+          "pork belly": 51
+        }
+      },
+      "cooking_oils": {
+        "total_files": 50,
+        "source_breakdown": {
+          "oil": 50
+        }
+      },
+      "pumpkin seeds": {
+        "total_files": 53,
+        "source_breakdown": {
+          "pumpkin seeds": 53
+        }
+      }
+    },
+    "val": {
+      "polenta": {
+        "total_files": 14,
+        "source_breakdown": {
+          "polenta": 14
+        }
+      },
+      "apple": {
+        "total_files": 16,
+        "source_breakdown": {
+          "apple": 16
+        }
+      },
+      "egg noodles": {
+        "total_files": 12,
+        "source_breakdown": {
+          "egg noodles": 12
+        }
+      },
+      "leafy_greens": {
+        "total_files": 45,
+        "source_breakdown": {
+          "kale": 15,
+          "spinach": 14,
+          "lettuce": 16
+        }
+      },
+      "game_meat": {
+        "total_files": 46,
+        "source_breakdown": {
+          "lamb": 17,
+          "venison": 12,
+          "rabbit": 17
+        }
+      },
+      "breakfast_grains": {
+        "total_files": 45,
+        "source_breakdown": {
+          "granola": 16,
+          "oatmeal": 14,
+          "cereal": 15
+        }
+      },
+      "breakfast_items": {
+        "total_files": 29,
+        "source_breakdown": {
+          "pancake": 15,
+          "waffle": 14
+        }
+      },
+      "berries": {
+        "total_files": 76,
+        "source_breakdown": {
+          "blueberry": 16,
+          "strawberry": 16,
+          "raspberry": 14,
+          "blackberry": 15,
+          "cranberry": 15
+        }
+      },
+      "alcoholic_beverages": {
+        "total_files": 45,
+        "source_breakdown": {
+          "spirits": 12,
+          "beer": 16,
+          "wine": 17
+        }
+      },
+      "coconut milk": {
+        "total_files": 15,
+        "source_breakdown": {
+          "coconut milk": 15
+        }
+      },
+      "black beans": {
+        "total_files": 14,
+        "source_breakdown": {
+          "black beans": 14
+        }
+      },
+      "mozzarella cheese": {
+        "total_files": 15,
+        "source_breakdown": {
+          "mozzarella cheese": 15
+        }
+      },
+      "bell pepper": {
+        "total_files": 16,
+        "source_breakdown": {
+          "bell pepper": 16
+        }
+      },
+      "pear": {
+        "total_files": 16,
+        "source_breakdown": {
+          "pear": 16
+        }
+      },
+      "white_fish": {
+        "total_files": 62,
+        "source_breakdown": {
+          "sole": 16,
+          "halibut": 14,
+          "flounder": 17,
+          "cod": 15
+        }
+      },
+      "gnocchi": {
+        "total_files": 14,
+        "source_breakdown": {
+          "gnocchi": 14
+        }
+      },
+      "peppers": {
+        "total_files": 32,
+        "source_breakdown": {
+          "habanero": 16,
+          "jalape\u00f1o": 16
+        }
+      },
+      "freshwater_fish": {
+        "total_files": 50,
+        "source_breakdown": {
+          "perch": 16,
+          "catfish": 17,
+          "carp": 17
+        }
+      },
+      "avocado": {
+        "total_files": 15,
+        "source_breakdown": {
+          "avocado": 15
+        }
+      },
+      "basic_condiments": {
+        "total_files": 45,
+        "source_breakdown": {
+          "mayo": 14,
+          "mustard": 16,
+          "ketchup": 15
+        }
+      },
+      "brussels sprouts": {
+        "total_files": 14,
+        "source_breakdown": {
+          "brussels sprouts": 14
+        }
+      },
+      "mollusks": {
+        "total_files": 94,
+        "source_breakdown": {
+          "clams": 17,
+          "squid": 17,
+          "scallops": 16,
+          "mussels": 13,
+          "octopus": 17,
+          "oysters": 14
+        }
+      },
+      "shellfish": {
+        "total_files": 82,
+        "source_breakdown": {
+          "crab": 17,
+          "crawfish": 16,
+          "lobster": 17,
+          "shrimp": 16,
+          "prawns": 16
+        }
+      },
+      "pomegranate": {
+        "total_files": 16,
+        "source_breakdown": {
+          "pomegranate": 16
+        }
+      },
+      "indian_dishes": {
+        "total_files": 29,
+        "source_breakdown": {
+          "curry": 16,
+          "naan": 13
+        }
+      },
+      "peas": {
+        "total_files": 15,
+        "source_breakdown": {
+          "peas": 15
+        }
+      },
+      "couscous": {
+        "total_files": 16,
+        "source_breakdown": {
+          "couscous": 16
+        }
+      },
+      "maple syrup": {
+        "total_files": 16,
+        "source_breakdown": {
+          "maple syrup": 16
+        }
+      },
+      "sea bass": {
+        "total_files": 16,
+        "source_breakdown": {
+          "sea bass": 16
+        }
+      },
+      "herbs": {
+        "total_files": 141,
+        "source_breakdown": {
+          "rosemary": 17,
+          "mint": 17,
+          "parsley": 16,
+          "basil": 15,
+          "oregano": 16,
+          "thyme": 14,
+          "fennel": 14,
+          "dill": 17,
+          "sage": 15
+        }
+      },
+      "flour": {
+        "total_files": 15,
+        "source_breakdown": {
+          "flour": 15
+        }
+      },
+      "beef roast": {
+        "total_files": 14,
+        "source_breakdown": {
+          "beef roast": 14
+        }
+      },
+      "brie cheese": {
+        "total_files": 17,
+        "source_breakdown": {
+          "brie cheese": 17
+        }
+      },
+      "root_vegetables": {
+        "total_files": 29,
+        "source_breakdown": {
+          "beet": 15,
+          "carrot": 14
+        }
+      },
+      "whole_grains": {
+        "total_files": 140,
+        "source_breakdown": {
+          "farro": 14,
+          "teff": 14,
+          "millet": 17,
+          "oats": 16,
+          "bulgur": 15,
+          "spelt": 16,
+          "amaranth": 16,
+          "barley": 16,
+          "buckwheat": 16
+        }
+      },
+      "peanut butter": {
+        "total_files": 16,
+        "source_breakdown": {
+          "peanut butter": 16
+        }
+      },
+      "mediterranean_dishes": {
+        "total_files": 29,
+        "source_breakdown": {
+          "kebab": 14,
+          "gyros": 15
+        }
+      },
+      "exotic_fish": {
+        "total_files": 16,
+        "source_breakdown": {
+          "swordfish": 16
+        }
+      },
+      "dried_fruits": {
+        "total_files": 45,
+        "source_breakdown": {
+          "fig": 14,
+          "date": 15,
+          "prune": 16
+        }
+      },
+      "tree_nuts": {
+        "total_files": 91,
+        "source_breakdown": {
+          "pecans": 14,
+          "walnuts": 14,
+          "almonds": 16,
+          "hazelnuts": 16,
+          "cashews": 14,
+          "pistachios": 17
+        }
+      },
+      "green beans": {
+        "total_files": 13,
+        "source_breakdown": {
+          "green beans": 13
+        }
+      },
+      "cakes_pastries": {
+        "total_files": 92,
+        "source_breakdown": {
+          "donut": 17,
+          "cupcake": 15,
+          "pie": 15,
+          "muffin": 14,
+          "tart": 15,
+          "cake": 16
+        }
+      },
+      "oily_fish": {
+        "total_files": 75,
+        "source_breakdown": {
+          "anchovies": 14,
+          "herring": 15,
+          "sardines": 15,
+          "mackerel": 15,
+          "salmon": 16
+        }
+      },
+      "flax seeds": {
+        "total_files": 17,
+        "source_breakdown": {
+          "flax seeds": 17
+        }
+      },
+      "mushroom": {
+        "total_files": 16,
+        "source_breakdown": {
+          "mushroom": 16
+        }
+      },
+      "cottage cheese": {
+        "total_files": 16,
+        "source_breakdown": {
+          "cottage cheese": 16
+        }
+      },
+      "ground pork": {
+        "total_files": 15,
+        "source_breakdown": {
+          "ground pork": 15
+        }
+      },
+      "water_variants": {
+        "total_files": 15,
+        "source_breakdown": {
+          "water": 15
+        }
+      },
+      "tortilla": {
+        "total_files": 16,
+        "source_breakdown": {
+          "tortilla": 16
+        }
+      },
+      "mahi mahi": {
+        "total_files": 16,
+        "source_breakdown": {
+          "mahi mahi": 16
+        }
+      },
+      "cream cheese": {
+        "total_files": 15,
+        "source_breakdown": {
+          "cream cheese": 15
+        }
+      },
+      "okra": {
+        "total_files": 13,
+        "source_breakdown": {
+          "okra": 13
+        }
+      },
+      "puddings_creams": {
+        "total_files": 45,
+        "source_breakdown": {
+          "mousse": 16,
+          "pudding": 15,
+          "custard": 14
+        }
+      },
+      "citrus_fruits": {
+        "total_files": 65,
+        "source_breakdown": {
+          "lemon": 16,
+          "grapefruit": 15,
+          "lime": 17,
+          "orange": 17
+        }
+      },
+      "rice": {
+        "total_files": 17,
+        "source_breakdown": {
+          "rice": 17
+        }
+      },
+      "tropical_fruits": {
+        "total_files": 125,
+        "source_breakdown": {
+          "guava": 17,
+          "jackfruit": 14,
+          "lychee": 17,
+          "durian": 15,
+          "rambutan": 16,
+          "mango": 16,
+          "papaya": 14,
+          "pineapple": 16
+        }
+      },
+      "snack_foods": {
+        "total_files": 46,
+        "source_breakdown": {
+          "chips": 14,
+          "popcorn": 15,
+          "pretzels": 17
+        }
+      },
+      "pasta": {
+        "total_files": 128,
+        "source_breakdown": {
+          "linguine": 15,
+          "ravioli": 15,
+          "fettuccine": 14,
+          "spaghetti": 14,
+          "macaroni": 15,
+          "farfalle": 16,
+          "fusilli": 16,
+          "rigatoni": 15,
+          "penne": 8
+        }
+      },
+      "red snapper": {
+        "total_files": 15,
+        "source_breakdown": {
+          "red snapper": 15
+        }
+      },
+      "pine nuts": {
+        "total_files": 15,
+        "source_breakdown": {
+          "pine nuts": 15
+        }
+      },
+      "mexican_dishes": {
+        "total_files": 45,
+        "source_breakdown": {
+          "burritos": 14,
+          "quesadilla": 15,
+          "tacos": 16
+        }
+      },
+      "alliums": {
+        "total_files": 81,
+        "source_breakdown": {
+          "scallion": 16,
+          "onion": 16,
+          "chives": 15,
+          "garlic": 17,
+          "leek": 17
+        }
+      },
+      "pork tenderloin": {
+        "total_files": 12,
+        "source_breakdown": {
+          "pork tenderloin": 12
+        }
+      },
+      "olive oil": {
+        "total_files": 15,
+        "source_breakdown": {
+          "olive oil": 15
+        }
+      },
+      "canned soup": {
+        "total_files": 14,
+        "source_breakdown": {
+          "canned soup": 14
+        }
+      },
+      "cruciferous_vegetables": {
+        "total_files": 47,
+        "source_breakdown": {
+          "cauliflower": 15,
+          "cabbage": 16,
+          "broccoli": 16
+        }
+      },
+      "milk": {
+        "total_files": 16,
+        "source_breakdown": {
+          "milk": 16
+        }
+      },
+      "ground beef": {
+        "total_files": 15,
+        "source_breakdown": {
+          "ground beef": 15
+        }
+      },
+      "chicken breast": {
+        "total_files": 14,
+        "source_breakdown": {
+          "chicken breast": 14
+        }
+      },
+      "sea urchin": {
+        "total_files": 17,
+        "source_breakdown": {
+          "sea urchin": 17
+        }
+      },
+      "sparkling water": {
+        "total_files": 15,
+        "source_breakdown": {
+          "sparkling water": 15
+        }
+      },
+      "melons": {
+        "total_files": 46,
+        "source_breakdown": {
+          "honeydew": 16,
+          "watermelon": 16,
+          "cantaloupe": 14
+        }
+      },
+      "preserved_foods": {
+        "total_files": 29,
+        "source_breakdown": {
+          "pickles": 14,
+          "olives": 15
+        }
+      },
+      "horseradish": {
+        "total_files": 15,
+        "source_breakdown": {
+          "horseradish": 15
+        }
+      },
+      "baked_goods": {
+        "total_files": 77,
+        "source_breakdown": {
+          "bagel": 15,
+          "croissant": 15,
+          "bread": 15,
+          "crackers": 16,
+          "baguette": 16
+        }
+      },
+      "ramen noodles": {
+        "total_files": 15,
+        "source_breakdown": {
+          "ramen noodles": 15
+        }
+      },
+      "feta cheese": {
+        "total_files": 16,
+        "source_breakdown": {
+          "feta cheese": 16
+        }
+      },
+      "cured_meats": {
+        "total_files": 94,
+        "source_breakdown": {
+          "ham": 16,
+          "pepperoni": 16,
+          "prosciutto": 16,
+          "sausage": 16,
+          "bacon": 15,
+          "chorizo": 15
+        }
+      },
+      "poultry_other": {
+        "total_files": 31,
+        "source_breakdown": {
+          "duck": 16,
+          "goose": 15
+        }
+      },
+      "gouda cheese": {
+        "total_files": 13,
+        "source_breakdown": {
+          "gouda cheese": 13
+        }
+      },
+      "frozen_dairy": {
+        "total_files": 15,
+        "source_breakdown": {
+          "gelato": 15
+        }
+      },
+      "cucumber": {
+        "total_files": 14,
+        "source_breakdown": {
+          "cucumber": 14
+        }
+      },
+      "sweet potato": {
+        "total_files": 13,
+        "source_breakdown": {
+          "sweet potato": 13
+        }
+      },
+      "pork chop": {
+        "total_files": 14,
+        "source_breakdown": {
+          "pork chop": 14
+        }
+      },
+      "beef steak": {
+        "total_files": 16,
+        "source_breakdown": {
+          "beef steak": 16
+        }
+      },
+      "chia seeds": {
+        "total_files": 16,
+        "source_breakdown": {
+          "chia seeds": 16
+        }
+      },
+      "italian_dishes": {
+        "total_files": 45,
+        "source_breakdown": {
+          "risotto": 14,
+          "pasta": 15,
+          "pizza": 16
+        }
+      },
+      "vinegar": {
+        "total_files": 16,
+        "source_breakdown": {
+          "vinegar": 16
+        }
+      },
+      "wasabi": {
+        "total_files": 15,
+        "source_breakdown": {
+          "wasabi": 15
+        }
+      },
+      "ice cream": {
+        "total_files": 16,
+        "source_breakdown": {
+          "ice cream": 16
+        }
+      },
+      "almond milk": {
+        "total_files": 16,
+        "source_breakdown": {
+          "almond milk": 16
+        }
+      },
+      "macadamia nuts": {
+        "total_files": 14,
+        "source_breakdown": {
+          "macadamia nuts": 14
+        }
+      },
+      "lentils_peas": {
+        "total_files": 28,
+        "source_breakdown": {
+          "edamame": 12,
+          "lentils": 16
+        }
+      },
+      "ricotta cheese": {
+        "total_files": 16,
+        "source_breakdown": {
+          "ricotta cheese": 16
+        }
+      },
+      "sesame seeds": {
+        "total_files": 16,
+        "source_breakdown": {
+          "sesame seeds": 16
+        }
+      },
+      "fried rice": {
+        "total_files": 14,
+        "source_breakdown": {
+          "fried rice": 14
+        }
+      },
+      "stone_fruits": {
+        "total_files": 62,
+        "source_breakdown": {
+          "plum": 16,
+          "cherry": 16,
+          "apricot": 14,
+          "peach": 16
+        }
+      },
+      "ground chicken": {
+        "total_files": 14,
+        "source_breakdown": {
+          "ground chicken": 14
+        }
+      },
+      "spanish_dishes": {
+        "total_files": 15,
+        "source_breakdown": {
+          "paella": 15
+        }
+      },
+      "nut_butters": {
+        "total_files": 16,
+        "source_breakdown": {
+          "tahini": 16
+        }
+      },
+      "soy_products": {
+        "total_files": 31,
+        "source_breakdown": {
+          "tempeh": 16,
+          "tofu": 15
+        }
+      },
+      "barbecue sauce": {
+        "total_files": 13,
+        "source_breakdown": {
+          "barbecue sauce": 13
+        }
+      },
+      "sweet_treats": {
+        "total_files": 64,
+        "source_breakdown": {
+          "brownie": 16,
+          "chocolate": 16,
+          "cookie": 17,
+          "candy": 15
+        }
+      },
+      "oat milk": {
+        "total_files": 16,
+        "source_breakdown": {
+          "oat milk": 16
+        }
+      },
+      "brazil nuts": {
+        "total_files": 14,
+        "source_breakdown": {
+          "brazil nuts": 14
+        }
+      },
+      "cold_beverages": {
+        "total_files": 41,
+        "source_breakdown": {
+          "soda": 15,
+          "juice": 12,
+          "smoothie": 14
+        }
+      },
+      "dragon fruit": {
+        "total_files": 15,
+        "source_breakdown": {
+          "dragon fruit": 15
+        }
+      },
+      "beef": {
+        "total_files": 13,
+        "source_breakdown": {
+          "brisket": 13
+        }
+      },
+      "short ribs": {
+        "total_files": 14,
+        "source_breakdown": {
+          "short ribs": 14
+        }
+      },
+      "hot sauce": {
+        "total_files": 15,
+        "source_breakdown": {
+          "hot sauce": 15
+        }
+      },
+      "hot_beverages": {
+        "total_files": 48,
+        "source_breakdown": {
+          "tea": 16,
+          "coffee": 15,
+          "espresso": 17
+        }
+      },
+      "wheat": {
+        "total_files": 16,
+        "source_breakdown": {
+          "wheat": 16
+        }
+      },
+      "swiss cheese": {
+        "total_files": 15,
+        "source_breakdown": {
+          "swiss cheese": 15
+        }
+      },
+      "goat cheese": {
+        "total_files": 14,
+        "source_breakdown": {
+          "goat cheese": 14
+        }
+      },
+      "rice noodles": {
+        "total_files": 14,
+        "source_breakdown": {
+          "rice noodles": 14
+        }
+      },
+      "sweeteners": {
+        "total_files": 30,
+        "source_breakdown": {
+          "honey": 15,
+          "jam": 15
+        }
+      },
+      "parmesan cheese": {
+        "total_files": 16,
+        "source_breakdown": {
+          "parmesan cheese": 16
+        }
+      },
+      "chicken liver": {
+        "total_files": 12,
+        "source_breakdown": {
+          "chicken liver": 12
+        }
+      },
+      "pinto beans": {
+        "total_files": 14,
+        "source_breakdown": {
+          "pinto beans": 14
+        }
+      },
+      "cream_products": {
+        "total_files": 15,
+        "source_breakdown": {
+          "butter": 15
+        }
+      },
+      "fish_products": {
+        "total_files": 30,
+        "source_breakdown": {
+          "roe": 16,
+          "caviar": 14
+        }
+      },
+      "passion fruit": {
+        "total_files": 15,
+        "source_breakdown": {
+          "passion fruit": 15
+        }
+      },
+      "cheddar cheese": {
+        "total_files": 15,
+        "source_breakdown": {
+          "cheddar cheese": 15
+        }
+      },
+      "split peas": {
+        "total_files": 15,
+        "source_breakdown": {
+          "split peas": 15
+        }
+      },
+      "yogurt": {
+        "total_files": 15,
+        "source_breakdown": {
+          "yogurt": 15
+        }
+      },
+      "star fruit": {
+        "total_files": 16,
+        "source_breakdown": {
+          "star fruit": 16
+        }
+      },
+      "soy sauce": {
+        "total_files": 15,
+        "source_breakdown": {
+          "soy sauce": 15
+        }
+      },
+      "beans": {
+        "total_files": 27,
+        "source_breakdown": {
+          "beans": 13,
+          "chickpeas": 14
+        }
+      },
+      "chicken wing": {
+        "total_files": 13,
+        "source_breakdown": {
+          "chicken wing": 13
+        }
+      },
+      "heavy cream": {
+        "total_files": 15,
+        "source_breakdown": {
+          "heavy cream": 15
+        }
+      },
+      "corn": {
+        "total_files": 15,
+        "source_breakdown": {
+          "corn": 15
+        }
+      },
+      "sunflower seeds": {
+        "total_files": 14,
+        "source_breakdown": {
+          "sunflower seeds": 14
+        }
+      },
+      "asian_dishes": {
+        "total_files": 60,
+        "source_breakdown": {
+          "sushi": 16,
+          "ramen": 15,
+          "dumplings": 15,
+          "pho": 14
+        }
+      },
+      "frozen yogurt": {
+        "total_files": 16,
+        "source_breakdown": {
+          "frozen yogurt": 16
+        }
+      },
+      "artichoke": {
+        "total_files": 16,
+        "source_breakdown": {
+          "artichoke": 16
+        }
+      },
+      "asparagus": {
+        "total_files": 15,
+        "source_breakdown": {
+          "asparagus": 15
+        }
+      },
+      "celery": {
+        "total_files": 15,
+        "source_breakdown": {
+          "celery": 15
+        }
+      },
+      "banana": {
+        "total_files": 15,
+        "source_breakdown": {
+          "banana": 15
+        }
+      },
+      "chicken thigh": {
+        "total_files": 12,
+        "source_breakdown": {
+          "chicken thigh": 12
+        }
+      },
+      "cashew butter": {
+        "total_files": 13,
+        "source_breakdown": {
+          "cashew butter": 13
+        }
+      },
+      "bok choy": {
+        "total_files": 15,
+        "source_breakdown": {
+          "bok choy": 15
+        }
+      },
+      "sour cream": {
+        "total_files": 16,
+        "source_breakdown": {
+          "sour cream": 16
+        }
+      },
+      "coconut water": {
+        "total_files": 15,
+        "source_breakdown": {
+          "coconut water": 15
+        }
+      },
+      "ginger": {
+        "total_files": 16,
+        "source_breakdown": {
+          "ginger": 16
+        }
+      },
+      "soba noodles": {
+        "total_files": 13,
+        "source_breakdown": {
+          "soba noodles": 13
+        }
+      },
+      "grape": {
+        "total_files": 16,
+        "source_breakdown": {
+          "grape": 16
+        }
+      },
+      "pork ribs": {
+        "total_files": 15,
+        "source_breakdown": {
+          "pork ribs": 15
+        }
+      },
+      "squash": {
+        "total_files": 15,
+        "source_breakdown": {
+          "zucchini": 15
+        }
+      },
+      "soy milk": {
+        "total_files": 14,
+        "source_breakdown": {
+          "soy milk": 14
+        }
+      },
+      "whole chicken": {
+        "total_files": 14,
+        "source_breakdown": {
+          "whole chicken": 14
+        }
+      },
+      "kidney beans": {
+        "total_files": 14,
+        "source_breakdown": {
+          "kidney beans": 14
+        }
+      },
+      "rice milk": {
+        "total_files": 14,
+        "source_breakdown": {
+          "rice milk": 14
+        }
+      },
+      "persimmon": {
+        "total_files": 16,
+        "source_breakdown": {
+          "persimmon": 16
+        }
+      },
+      "pork shoulder": {
+        "total_files": 12,
+        "source_breakdown": {
+          "pork shoulder": 12
+        }
+      },
+      "almond butter": {
+        "total_files": 14,
+        "source_breakdown": {
+          "almond butter": 14
+        }
+      },
+      "pork belly": {
+        "total_files": 14,
+        "source_breakdown": {
+          "pork belly": 14
+        }
+      },
+      "cooking_oils": {
+        "total_files": 14,
+        "source_breakdown": {
+          "oil": 14
+        }
+      },
+      "pumpkin seeds": {
+        "total_files": 15,
+        "source_breakdown": {
+          "pumpkin seeds": 15
+        }
+      }
+    },
+    "test": {
+      "polenta": {
+        "total_files": 8,
+        "source_breakdown": {
+          "polenta": 8
+        }
+      },
+      "apple": {
+        "total_files": 10,
+        "source_breakdown": {
+          "apple": 10
+        }
+      },
+      "egg noodles": {
+        "total_files": 7,
+        "source_breakdown": {
+          "egg noodles": 7
+        }
+      },
+      "leafy_greens": {
+        "total_files": 28,
+        "source_breakdown": {
+          "kale": 9,
+          "spinach": 9,
+          "lettuce": 10
+        }
+      },
+      "game_meat": {
+        "total_files": 26,
+        "source_breakdown": {
+          "lamb": 9,
+          "venison": 7,
+          "rabbit": 10
+        }
+      },
+      "breakfast_grains": {
+        "total_files": 27,
+        "source_breakdown": {
+          "granola": 9,
+          "oatmeal": 9,
+          "cereal": 9
+        }
+      },
+      "breakfast_items": {
+        "total_files": 16,
+        "source_breakdown": {
+          "pancake": 8,
+          "waffle": 8
+        }
+      },
+      "berries": {
+        "total_files": 46,
+        "source_breakdown": {
+          "blueberry": 9,
+          "strawberry": 10,
+          "raspberry": 9,
+          "blackberry": 9,
+          "cranberry": 9
+        }
+      },
+      "alcoholic_beverages": {
+        "total_files": 26,
+        "source_breakdown": {
+          "spirits": 8,
+          "beer": 9,
+          "wine": 9
+        }
+      },
+      "coconut milk": {
+        "total_files": 9,
+        "source_breakdown": {
+          "coconut milk": 9
+        }
+      },
+      "black beans": {
+        "total_files": 9,
+        "source_breakdown": {
+          "black beans": 9
+        }
+      },
+      "mozzarella cheese": {
+        "total_files": 8,
+        "source_breakdown": {
+          "mozzarella cheese": 8
+        }
+      },
+      "bell pepper": {
+        "total_files": 9,
+        "source_breakdown": {
+          "bell pepper": 9
+        }
+      },
+      "pear": {
+        "total_files": 10,
+        "source_breakdown": {
+          "pear": 10
+        }
+      },
+      "white_fish": {
+        "total_files": 34,
+        "source_breakdown": {
+          "sole": 9,
+          "halibut": 7,
+          "flounder": 9,
+          "cod": 9
+        }
+      },
+      "gnocchi": {
+        "total_files": 8,
+        "source_breakdown": {
+          "gnocchi": 8
+        }
+      },
+      "peppers": {
+        "total_files": 20,
+        "source_breakdown": {
+          "habanero": 10,
+          "jalape\u00f1o": 10
+        }
+      },
+      "freshwater_fish": {
+        "total_files": 27,
+        "source_breakdown": {
+          "perch": 8,
+          "catfish": 10,
+          "carp": 9
+        }
+      },
+      "avocado": {
+        "total_files": 9,
+        "source_breakdown": {
+          "avocado": 9
+        }
+      },
+      "basic_condiments": {
+        "total_files": 26,
+        "source_breakdown": {
+          "mayo": 8,
+          "mustard": 9,
+          "ketchup": 9
+        }
+      },
+      "brussels sprouts": {
+        "total_files": 9,
+        "source_breakdown": {
+          "brussels sprouts": 9
+        }
+      },
+      "mollusks": {
+        "total_files": 52,
+        "source_breakdown": {
+          "clams": 9,
+          "squid": 9,
+          "scallops": 9,
+          "mussels": 7,
+          "octopus": 10,
+          "oysters": 8
+        }
+      },
+      "shellfish": {
+        "total_files": 44,
+        "source_breakdown": {
+          "crab": 9,
+          "crawfish": 8,
+          "lobster": 9,
+          "shrimp": 9,
+          "prawns": 9
+        }
+      },
+      "pomegranate": {
+        "total_files": 9,
+        "source_breakdown": {
+          "pomegranate": 9
+        }
+      },
+      "indian_dishes": {
+        "total_files": 16,
+        "source_breakdown": {
+          "curry": 8,
+          "naan": 8
+        }
+      },
+      "peas": {
+        "total_files": 9,
+        "source_breakdown": {
+          "peas": 9
+        }
+      },
+      "couscous": {
+        "total_files": 9,
+        "source_breakdown": {
+          "couscous": 9
+        }
+      },
+      "maple syrup": {
+        "total_files": 9,
+        "source_breakdown": {
+          "maple syrup": 9
+        }
+      },
+      "sea bass": {
+        "total_files": 9,
+        "source_breakdown": {
+          "sea bass": 9
+        }
+      },
+      "herbs": {
+        "total_files": 80,
+        "source_breakdown": {
+          "rosemary": 9,
+          "mint": 9,
+          "parsley": 9,
+          "basil": 9,
+          "oregano": 9,
+          "thyme": 8,
+          "fennel": 9,
+          "dill": 9,
+          "sage": 9
+        }
+      },
+      "flour": {
+        "total_files": 9,
+        "source_breakdown": {
+          "flour": 9
+        }
+      },
+      "beef roast": {
+        "total_files": 8,
+        "source_breakdown": {
+          "beef roast": 8
+        }
+      },
+      "brie cheese": {
+        "total_files": 10,
+        "source_breakdown": {
+          "brie cheese": 10
+        }
+      },
+      "root_vegetables": {
+        "total_files": 18,
+        "source_breakdown": {
+          "beet": 9,
+          "carrot": 9
+        }
+      },
+      "whole_grains": {
+        "total_files": 80,
+        "source_breakdown": {
+          "farro": 8,
+          "teff": 9,
+          "millet": 9,
+          "oats": 9,
+          "bulgur": 8,
+          "spelt": 9,
+          "amaranth": 9,
+          "barley": 10,
+          "buckwheat": 9
+        }
+      },
+      "peanut butter": {
+        "total_files": 8,
+        "source_breakdown": {
+          "peanut butter": 8
+        }
+      },
+      "mediterranean_dishes": {
+        "total_files": 17,
+        "source_breakdown": {
+          "kebab": 8,
+          "gyros": 9
+        }
+      },
+      "exotic_fish": {
+        "total_files": 8,
+        "source_breakdown": {
+          "swordfish": 8
+        }
+      },
+      "dried_fruits": {
+        "total_files": 25,
+        "source_breakdown": {
+          "fig": 8,
+          "date": 9,
+          "prune": 8
+        }
+      },
+      "tree_nuts": {
+        "total_files": 52,
+        "source_breakdown": {
+          "pecans": 8,
+          "walnuts": 9,
+          "almonds": 9,
+          "hazelnuts": 9,
+          "cashews": 8,
+          "pistachios": 9
+        }
+      },
+      "green beans": {
+        "total_files": 8,
+        "source_breakdown": {
+          "green beans": 8
+        }
+      },
+      "cakes_pastries": {
+        "total_files": 49,
+        "source_breakdown": {
+          "donut": 9,
+          "cupcake": 8,
+          "pie": 8,
+          "muffin": 7,
+          "tart": 8,
+          "cake": 9
+        }
+      },
+      "oily_fish": {
+        "total_files": 44,
+        "source_breakdown": {
+          "anchovies": 9,
+          "herring": 9,
+          "sardines": 8,
+          "mackerel": 9,
+          "salmon": 9
+        }
+      },
+      "flax seeds": {
+        "total_files": 9,
+        "source_breakdown": {
+          "flax seeds": 9
+        }
+      },
+      "mushroom": {
+        "total_files": 10,
+        "source_breakdown": {
+          "mushroom": 10
+        }
+      },
+      "cottage cheese": {
+        "total_files": 9,
+        "source_breakdown": {
+          "cottage cheese": 9
+        }
+      },
+      "ground pork": {
+        "total_files": 9,
+        "source_breakdown": {
+          "ground pork": 9
+        }
+      },
+      "water_variants": {
+        "total_files": 9,
+        "source_breakdown": {
+          "water": 9
+        }
+      },
+      "tortilla": {
+        "total_files": 9,
+        "source_breakdown": {
+          "tortilla": 9
+        }
+      },
+      "mahi mahi": {
+        "total_files": 8,
+        "source_breakdown": {
+          "mahi mahi": 8
+        }
+      },
+      "cream cheese": {
+        "total_files": 9,
+        "source_breakdown": {
+          "cream cheese": 9
+        }
+      },
+      "okra": {
+        "total_files": 8,
+        "source_breakdown": {
+          "okra": 8
+        }
+      },
+      "puddings_creams": {
+        "total_files": 26,
+        "source_breakdown": {
+          "mousse": 8,
+          "pudding": 9,
+          "custard": 9
+        }
+      },
+      "citrus_fruits": {
+        "total_files": 36,
+        "source_breakdown": {
+          "lemon": 9,
+          "grapefruit": 9,
+          "lime": 9,
+          "orange": 9
+        }
+      },
+      "rice": {
+        "total_files": 10,
+        "source_breakdown": {
+          "rice": 10
+        }
+      },
+      "tropical_fruits": {
+        "total_files": 71,
+        "source_breakdown": {
+          "guava": 10,
+          "jackfruit": 9,
+          "lychee": 9,
+          "durian": 8,
+          "rambutan": 9,
+          "mango": 9,
+          "papaya": 8,
+          "pineapple": 9
+        }
+      },
+      "snack_foods": {
+        "total_files": 27,
+        "source_breakdown": {
+          "chips": 8,
+          "popcorn": 9,
+          "pretzels": 10
+        }
+      },
+      "pasta": {
+        "total_files": 74,
+        "source_breakdown": {
+          "linguine": 9,
+          "ravioli": 8,
+          "fettuccine": 9,
+          "spaghetti": 8,
+          "macaroni": 9,
+          "farfalle": 9,
+          "fusilli": 9,
+          "rigatoni": 8,
+          "penne": 5
+        }
+      },
+      "red snapper": {
+        "total_files": 8,
+        "source_breakdown": {
+          "red snapper": 8
+        }
+      },
+      "pine nuts": {
+        "total_files": 9,
+        "source_breakdown": {
+          "pine nuts": 9
+        }
+      },
+      "mexican_dishes": {
+        "total_files": 26,
+        "source_breakdown": {
+          "burritos": 8,
+          "quesadilla": 9,
+          "tacos": 9
+        }
+      },
+      "alliums": {
+        "total_files": 45,
+        "source_breakdown": {
+          "scallion": 10,
+          "onion": 9,
+          "chives": 8,
+          "garlic": 9,
+          "leek": 9
+        }
+      },
+      "pork tenderloin": {
+        "total_files": 7,
+        "source_breakdown": {
+          "pork tenderloin": 7
+        }
+      },
+      "olive oil": {
+        "total_files": 9,
+        "source_breakdown": {
+          "olive oil": 9
+        }
+      },
+      "canned soup": {
+        "total_files": 8,
+        "source_breakdown": {
+          "canned soup": 8
+        }
+      },
+      "cruciferous_vegetables": {
+        "total_files": 27,
+        "source_breakdown": {
+          "cauliflower": 8,
+          "cabbage": 9,
+          "broccoli": 10
+        }
+      },
+      "milk": {
+        "total_files": 9,
+        "source_breakdown": {
+          "milk": 9
+        }
+      },
+      "ground beef": {
+        "total_files": 9,
+        "source_breakdown": {
+          "ground beef": 9
+        }
+      },
+      "chicken breast": {
+        "total_files": 7,
+        "source_breakdown": {
+          "chicken breast": 7
+        }
+      },
+      "sea urchin": {
+        "total_files": 9,
+        "source_breakdown": {
+          "sea urchin": 9
+        }
+      },
+      "sparkling water": {
+        "total_files": 9,
+        "source_breakdown": {
+          "sparkling water": 9
+        }
+      },
+      "melons": {
+        "total_files": 26,
+        "source_breakdown": {
+          "honeydew": 10,
+          "watermelon": 8,
+          "cantaloupe": 8
+        }
+      },
+      "preserved_foods": {
+        "total_files": 17,
+        "source_breakdown": {
+          "pickles": 8,
+          "olives": 9
+        }
+      },
+      "horseradish": {
+        "total_files": 8,
+        "source_breakdown": {
+          "horseradish": 8
+        }
+      },
+      "baked_goods": {
+        "total_files": 45,
+        "source_breakdown": {
+          "bagel": 9,
+          "croissant": 8,
+          "bread": 8,
+          "crackers": 10,
+          "baguette": 10
+        }
+      },
+      "ramen noodles": {
+        "total_files": 8,
+        "source_breakdown": {
+          "ramen noodles": 8
+        }
+      },
+      "feta cheese": {
+        "total_files": 9,
+        "source_breakdown": {
+          "feta cheese": 9
+        }
+      },
+      "cured_meats": {
+        "total_files": 53,
+        "source_breakdown": {
+          "ham": 9,
+          "pepperoni": 9,
+          "prosciutto": 9,
+          "sausage": 9,
+          "bacon": 9,
+          "chorizo": 8
+        }
+      },
+      "poultry_other": {
+        "total_files": 17,
+        "source_breakdown": {
+          "duck": 8,
+          "goose": 9
+        }
+      },
+      "gouda cheese": {
+        "total_files": 7,
+        "source_breakdown": {
+          "gouda cheese": 7
+        }
+      },
+      "frozen_dairy": {
+        "total_files": 9,
+        "source_breakdown": {
+          "gelato": 9
+        }
+      },
+      "cucumber": {
+        "total_files": 9,
+        "source_breakdown": {
+          "cucumber": 9
+        }
+      },
+      "sweet potato": {
+        "total_files": 8,
+        "source_breakdown": {
+          "sweet potato": 8
+        }
+      },
+      "pork chop": {
+        "total_files": 8,
+        "source_breakdown": {
+          "pork chop": 8
+        }
+      },
+      "beef steak": {
+        "total_files": 9,
+        "source_breakdown": {
+          "beef steak": 9
+        }
+      },
+      "chia seeds": {
+        "total_files": 9,
+        "source_breakdown": {
+          "chia seeds": 9
+        }
+      },
+      "italian_dishes": {
+        "total_files": 27,
+        "source_breakdown": {
+          "risotto": 8,
+          "pasta": 9,
+          "pizza": 10
+        }
+      },
+      "vinegar": {
+        "total_files": 8,
+        "source_breakdown": {
+          "vinegar": 8
+        }
+      },
+      "wasabi": {
+        "total_files": 9,
+        "source_breakdown": {
+          "wasabi": 9
+        }
+      },
+      "ice cream": {
+        "total_files": 9,
+        "source_breakdown": {
+          "ice cream": 9
+        }
+      },
+      "almond milk": {
+        "total_files": 10,
+        "source_breakdown": {
+          "almond milk": 10
+        }
+      },
+      "macadamia nuts": {
+        "total_files": 9,
+        "source_breakdown": {
+          "macadamia nuts": 9
+        }
+      },
+      "lentils_peas": {
+        "total_files": 17,
+        "source_breakdown": {
+          "edamame": 8,
+          "lentils": 9
+        }
+      },
+      "ricotta cheese": {
+        "total_files": 8,
+        "source_breakdown": {
+          "ricotta cheese": 8
+        }
+      },
+      "sesame seeds": {
+        "total_files": 9,
+        "source_breakdown": {
+          "sesame seeds": 9
+        }
+      },
+      "fried rice": {
+        "total_files": 8,
+        "source_breakdown": {
+          "fried rice": 8
+        }
+      },
+      "stone_fruits": {
+        "total_files": 35,
+        "source_breakdown": {
+          "plum": 9,
+          "cherry": 9,
+          "apricot": 8,
+          "peach": 9
+        }
+      },
+      "ground chicken": {
+        "total_files": 8,
+        "source_breakdown": {
+          "ground chicken": 8
+        }
+      },
+      "spanish_dishes": {
+        "total_files": 8,
+        "source_breakdown": {
+          "paella": 8
+        }
+      },
+      "nut_butters": {
+        "total_files": 10,
+        "source_breakdown": {
+          "tahini": 10
+        }
+      },
+      "soy_products": {
+        "total_files": 18,
+        "source_breakdown": {
+          "tempeh": 9,
+          "tofu": 9
+        }
+      },
+      "barbecue sauce": {
+        "total_files": 7,
+        "source_breakdown": {
+          "barbecue sauce": 7
+        }
+      },
+      "sweet_treats": {
+        "total_files": 36,
+        "source_breakdown": {
+          "brownie": 9,
+          "chocolate": 9,
+          "cookie": 9,
+          "candy": 9
+        }
+      },
+      "oat milk": {
+        "total_files": 9,
+        "source_breakdown": {
+          "oat milk": 9
+        }
+      },
+      "brazil nuts": {
+        "total_files": 8,
+        "source_breakdown": {
+          "brazil nuts": 8
+        }
+      },
+      "cold_beverages": {
+        "total_files": 25,
+        "source_breakdown": {
+          "soda": 9,
+          "juice": 8,
+          "smoothie": 8
+        }
+      },
+      "dragon fruit": {
+        "total_files": 9,
+        "source_breakdown": {
+          "dragon fruit": 9
+        }
+      },
+      "beef": {
+        "total_files": 8,
+        "source_breakdown": {
+          "brisket": 8
+        }
+      },
+      "short ribs": {
+        "total_files": 8,
+        "source_breakdown": {
+          "short ribs": 8
+        }
+      },
+      "hot sauce": {
+        "total_files": 9,
+        "source_breakdown": {
+          "hot sauce": 9
+        }
+      },
+      "hot_beverages": {
+        "total_files": 25,
+        "source_breakdown": {
+          "tea": 8,
+          "coffee": 8,
+          "espresso": 9
+        }
+      },
+      "wheat": {
+        "total_files": 10,
+        "source_breakdown": {
+          "wheat": 10
+        }
+      },
+      "swiss cheese": {
+        "total_files": 9,
+        "source_breakdown": {
+          "swiss cheese": 9
+        }
+      },
+      "goat cheese": {
+        "total_files": 9,
+        "source_breakdown": {
+          "goat cheese": 9
+        }
+      },
+      "rice noodles": {
+        "total_files": 8,
+        "source_breakdown": {
+          "rice noodles": 8
+        }
+      },
+      "sweeteners": {
+        "total_files": 18,
+        "source_breakdown": {
+          "honey": 9,
+          "jam": 9
+        }
+      },
+      "parmesan cheese": {
+        "total_files": 9,
+        "source_breakdown": {
+          "parmesan cheese": 9
+        }
+      },
+      "chicken liver": {
+        "total_files": 8,
+        "source_breakdown": {
+          "chicken liver": 8
+        }
+      },
+      "pinto beans": {
+        "total_files": 7,
+        "source_breakdown": {
+          "pinto beans": 7
+        }
+      },
+      "cream_products": {
+        "total_files": 9,
+        "source_breakdown": {
+          "butter": 9
+        }
+      },
+      "fish_products": {
+        "total_files": 18,
+        "source_breakdown": {
+          "roe": 9,
+          "caviar": 9
+        }
+      },
+      "passion fruit": {
+        "total_files": 9,
+        "source_breakdown": {
+          "passion fruit": 9
+        }
+      },
+      "cheddar cheese": {
+        "total_files": 8,
+        "source_breakdown": {
+          "cheddar cheese": 8
+        }
+      },
+      "split peas": {
+        "total_files": 8,
+        "source_breakdown": {
+          "split peas": 8
+        }
+      },
+      "yogurt": {
+        "total_files": 8,
+        "source_breakdown": {
+          "yogurt": 8
+        }
+      },
+      "star fruit": {
+        "total_files": 9,
+        "source_breakdown": {
+          "star fruit": 9
+        }
+      },
+      "soy sauce": {
+        "total_files": 9,
+        "source_breakdown": {
+          "soy sauce": 9
+        }
+      },
+      "beans": {
+        "total_files": 16,
+        "source_breakdown": {
+          "beans": 8,
+          "chickpeas": 8
+        }
+      },
+      "chicken wing": {
+        "total_files": 7,
+        "source_breakdown": {
+          "chicken wing": 7
+        }
+      },
+      "heavy cream": {
+        "total_files": 8,
+        "source_breakdown": {
+          "heavy cream": 8
+        }
+      },
+      "corn": {
+        "total_files": 9,
+        "source_breakdown": {
+          "corn": 9
+        }
+      },
+      "sunflower seeds": {
+        "total_files": 9,
+        "source_breakdown": {
+          "sunflower seeds": 9
+        }
+      },
+      "asian_dishes": {
+        "total_files": 34,
+        "source_breakdown": {
+          "sushi": 9,
+          "ramen": 8,
+          "dumplings": 8,
+          "pho": 9
+        }
+      },
+      "frozen yogurt": {
+        "total_files": 8,
+        "source_breakdown": {
+          "frozen yogurt": 8
+        }
+      },
+      "artichoke": {
+        "total_files": 9,
+        "source_breakdown": {
+          "artichoke": 9
+        }
+      },
+      "asparagus": {
+        "total_files": 8,
+        "source_breakdown": {
+          "asparagus": 8
+        }
+      },
+      "celery": {
+        "total_files": 9,
+        "source_breakdown": {
+          "celery": 9
+        }
+      },
+      "banana": {
+        "total_files": 9,
+        "source_breakdown": {
+          "banana": 9
+        }
+      },
+      "chicken thigh": {
+        "total_files": 7,
+        "source_breakdown": {
+          "chicken thigh": 7
+        }
+      },
+      "cashew butter": {
+        "total_files": 8,
+        "source_breakdown": {
+          "cashew butter": 8
+        }
+      },
+      "bok choy": {
+        "total_files": 8,
+        "source_breakdown": {
+          "bok choy": 8
+        }
+      },
+      "sour cream": {
+        "total_files": 9,
+        "source_breakdown": {
+          "sour cream": 9
+        }
+      },
+      "coconut water": {
+        "total_files": 9,
+        "source_breakdown": {
+          "coconut water": 9
+        }
+      },
+      "ginger": {
+        "total_files": 9,
+        "source_breakdown": {
+          "ginger": 9
+        }
+      },
+      "soba noodles": {
+        "total_files": 7,
+        "source_breakdown": {
+          "soba noodles": 7
+        }
+      },
+      "grape": {
+        "total_files": 9,
+        "source_breakdown": {
+          "grape": 9
+        }
+      },
+      "pork ribs": {
+        "total_files": 9,
+        "source_breakdown": {
+          "pork ribs": 9
+        }
+      },
+      "squash": {
+        "total_files": 8,
+        "source_breakdown": {
+          "zucchini": 8
+        }
+      },
+      "soy milk": {
+        "total_files": 8,
+        "source_breakdown": {
+          "soy milk": 8
+        }
+      },
+      "whole chicken": {
+        "total_files": 7,
+        "source_breakdown": {
+          "whole chicken": 7
+        }
+      },
+      "kidney beans": {
+        "total_files": 8,
+        "source_breakdown": {
+          "kidney beans": 8
+        }
+      },
+      "rice milk": {
+        "total_files": 8,
+        "source_breakdown": {
+          "rice milk": 8
+        }
+      },
+      "persimmon": {
+        "total_files": 9,
+        "source_breakdown": {
+          "persimmon": 9
+        }
+      },
+      "pork shoulder": {
+        "total_files": 7,
+        "source_breakdown": {
+          "pork shoulder": 7
+        }
+      },
+      "almond butter": {
+        "total_files": 8,
+        "source_breakdown": {
+          "almond butter": 8
+        }
+      },
+      "pork belly": {
+        "total_files": 8,
+        "source_breakdown": {
+          "pork belly": 8
+        }
+      },
+      "cooking_oils": {
+        "total_files": 8,
+        "source_breakdown": {
+          "oil": 8
+        }
+      },
+      "pumpkin seeds": {
+        "total_files": 8,
+        "source_breakdown": {
+          "pumpkin seeds": 8
+        }
+      }
+    }
+  },
+  "consolidation_mappings": {
+    "polenta": {
+      "polenta": 51
+    },
+    "apple": {
+      "apple": 58
+    },
+    "egg noodles": {
+      "egg noodles": 42
+    },
+    "leafy_greens": {
+      "kale": 53,
+      "spinach": 51,
+      "lettuce": 58
+    },
+    "game_meat": {
+      "lamb": 59,
+      "venison": 44,
+      "rabbit": 62
+    },
+    "breakfast_grains": {
+      "granola": 58,
+      "oatmeal": 51,
+      "cereal": 55
+    },
+    "breakfast_items": {
+      "pancake": 52,
+      "waffle": 51
+    },
+    "berries": {
+      "blueberry": 58,
+      "strawberry": 58,
+      "raspberry": 51,
+      "blackberry": 54,
+      "cranberry": 55
+    },
+    "alcoholic_beverages": {
+      "spirits": 44,
+      "beer": 58,
+      "wine": 59
+    },
+    "coconut milk": {
+      "coconut milk": 53
+    },
+    "black beans": {
+      "black beans": 51
+    },
+    "mozzarella cheese": {
+      "mozzarella cheese": 52
+    },
+    "bell pepper": {
+      "bell pepper": 56
+    },
+    "pear": {
+      "pear": 58
+    },
+    "white_fish": {
+      "sole": 58,
+      "halibut": 49,
+      "flounder": 60,
+      "cod": 53
+    },
+    "gnocchi": {
+      "gnocchi": 51
+    },
+    "peppers": {
+      "habanero": 58,
+      "jalape\u00f1o": 58
+    },
+    "freshwater_fish": {
+      "perch": 56,
+      "catfish": 60,
+      "carp": 59
+    },
+    "avocado": {
+      "avocado": 54
+    },
+    "basic_condiments": {
+      "mayo": 49,
+      "mustard": 58,
+      "ketchup": 53
+    },
+    "brussels sprouts": {
+      "brussels sprouts": 51
+    },
+    "mollusks": {
+      "clams": 59,
+      "squid": 60,
+      "scallops": 57,
+      "mussels": 46,
+      "octopus": 60,
+      "oysters": 51
+    },
+    "shellfish": {
+      "crab": 59,
+      "crawfish": 56,
+      "lobster": 59,
+      "shrimp": 56,
+      "prawns": 56
+    },
+    "pomegranate": {
+      "pomegranate": 57
+    },
+    "indian_dishes": {
+      "curry": 56,
+      "naan": 47
+    },
+    "peas": {
+      "peas": 53
+    },
+    "couscous": {
+      "couscous": 56
+    },
+    "maple syrup": {
+      "maple syrup": 58
+    },
+    "sea bass": {
+      "sea bass": 58
+    },
+    "herbs": {
+      "rosemary": 59,
+      "mint": 60,
+      "parsley": 57,
+      "basil": 53,
+      "oregano": 56,
+      "thyme": 49,
+      "fennel": 51,
+      "dill": 59,
+      "sage": 54
+    },
+    "flour": {
+      "flour": 55
+    },
+    "beef roast": {
+      "beef roast": 50
+    },
+    "brie cheese": {
+      "brie cheese": 60
+    },
+    "root_vegetables": {
+      "beet": 53,
+      "carrot": 51
+    },
+    "whole_grains": {
+      "farro": 51,
+      "teff": 51,
+      "millet": 59,
+      "oats": 57,
+      "bulgur": 52,
+      "spelt": 56,
+      "amaranth": 58,
+      "barley": 58,
+      "buckwheat": 58
+    },
+    "peanut butter": {
+      "peanut butter": 56
+    },
+    "mediterranean_dishes": {
+      "kebab": 51,
+      "gyros": 54
+    },
+    "exotic_fish": {
+      "swordfish": 56
+    },
+    "dried_fruits": {
+      "fig": 49,
+      "date": 53,
+      "prune": 56
+    },
+    "tree_nuts": {
+      "pecans": 51,
+      "walnuts": 51,
+      "almonds": 58,
+      "hazelnuts": 56,
+      "cashews": 51,
+      "pistachios": 59
+    },
+    "green beans": {
+      "green beans": 46
+    },
+    "cakes_pastries": {
+      "donut": 59,
+      "cupcake": 52,
+      "pie": 53,
+      "muffin": 49,
+      "tart": 53,
+      "cake": 57
+    },
+    "oily_fish": {
+      "anchovies": 51,
+      "herring": 54,
+      "sardines": 52,
+      "mackerel": 54,
+      "salmon": 57
+    },
+    "flax seeds": {
+      "flax seeds": 59
+    },
+    "mushroom": {
+      "mushroom": 58
+    },
+    "cottage cheese": {
+      "cottage cheese": 56
+    },
+    "ground pork": {
+      "ground pork": 55
+    },
+    "water_variants": {
+      "water": 54
+    },
+    "tortilla": {
+      "tortilla": 57
+    },
+    "mahi mahi": {
+      "mahi mahi": 56
+    },
+    "cream cheese": {
+      "cream cheese": 54
+    },
+    "okra": {
+      "okra": 48
+    },
+    "puddings_creams": {
+      "mousse": 56,
+      "pudding": 54,
+      "custard": 51
+    },
+    "citrus_fruits": {
+      "lemon": 56,
+      "grapefruit": 55,
+      "lime": 59,
+      "orange": 60
+    },
+    "rice": {
+      "rice": 60
+    },
+    "tropical_fruits": {
+      "guava": 61,
+      "jackfruit": 51,
+      "lychee": 59,
+      "durian": 53,
+      "rambutan": 57,
+      "mango": 57,
+      "papaya": 51,
+      "pineapple": 58
+    },
+    "snack_foods": {
+      "chips": 49,
+      "popcorn": 53,
+      "pretzels": 60
+    },
+    "pasta": {
+      "linguine": 55,
+      "ravioli": 53,
+      "fettuccine": 51,
+      "spaghetti": 50,
+      "macaroni": 54,
+      "farfalle": 58,
+      "fusilli": 58,
+      "rigatoni": 52,
+      "penne": 28
+    },
+    "red snapper": {
+      "red snapper": 53
+    },
+    "pine nuts": {
+      "pine nuts": 55
+    },
+    "mexican_dishes": {
+      "burritos": 49,
+      "quesadilla": 54,
+      "tacos": 56
+    },
+    "alliums": {
+      "scallion": 58,
+      "onion": 57,
+      "chives": 52,
+      "garlic": 59,
+      "leek": 59
+    },
+    "pork tenderloin": {
+      "pork tenderloin": 42
+    },
+    "olive oil": {
+      "olive oil": 55
+    },
+    "canned soup": {
+      "canned soup": 51
+    },
+    "cruciferous_vegetables": {
+      "cauliflower": 52,
+      "cabbage": 58,
+      "broccoli": 58
+    },
+    "milk": {
+      "milk": 57
+    },
+    "ground beef": {
+      "ground beef": 53
+    },
+    "chicken breast": {
+      "chicken breast": 49
+    },
+    "sea urchin": {
+      "sea urchin": 60
+    },
+    "sparkling water": {
+      "sparkling water": 53
+    },
+    "melons": {
+      "honeydew": 58,
+      "watermelon": 56,
+      "cantaloupe": 50
+    },
+    "preserved_foods": {
+      "pickles": 50,
+      "olives": 53
+    },
+    "horseradish": {
+      "horseradish": 52
+    },
+    "baked_goods": {
+      "bagel": 54,
+      "croissant": 53,
+      "bread": 53,
+      "crackers": 58,
+      "baguette": 58
+    },
+    "ramen noodles": {
+      "ramen noodles": 52
+    },
+    "feta cheese": {
+      "feta cheese": 58
+    },
+    "cured_meats": {
+      "ham": 56,
+      "pepperoni": 58,
+      "prosciutto": 57,
+      "sausage": 56,
+      "bacon": 53,
+      "chorizo": 53
+    },
+    "poultry_other": {
+      "duck": 56,
+      "goose": 55
+    },
+    "gouda cheese": {
+      "gouda cheese": 46
+    },
+    "frozen_dairy": {
+      "gelato": 53
+    },
+    "cucumber": {
+      "cucumber": 51
+    },
+    "sweet potato": {
+      "sweet potato": 46
+    },
+    "pork chop": {
+      "pork chop": 49
+    },
+    "beef steak": {
+      "beef steak": 56
+    },
+    "chia seeds": {
+      "chia seeds": 56
+    },
+    "italian_dishes": {
+      "risotto": 49,
+      "pasta": 54,
+      "pizza": 58
+    },
+    "vinegar": {
+      "vinegar": 56
+    },
+    "wasabi": {
+      "wasabi": 55
+    },
+    "ice cream": {
+      "ice cream": 57
+    },
+    "almond milk": {
+      "almond milk": 58
+    },
+    "macadamia nuts": {
+      "macadamia nuts": 51
+    },
+    "lentils_peas": {
+      "edamame": 44,
+      "lentils": 57
+    },
+    "ricotta cheese": {
+      "ricotta cheese": 56
+    },
+    "sesame seeds": {
+      "sesame seeds": 58
+    },
+    "fried rice": {
+      "fried rice": 51
+    },
+    "stone_fruits": {
+      "plum": 57,
+      "cherry": 58,
+      "apricot": 50,
+      "peach": 57
+    },
+    "ground chicken": {
+      "ground chicken": 50
+    },
+    "spanish_dishes": {
+      "paella": 52
+    },
+    "nut_butters": {
+      "tahini": 58
+    },
+    "soy_products": {
+      "tempeh": 57,
+      "tofu": 55
+    },
+    "barbecue sauce": {
+      "barbecue sauce": 46
+    },
+    "sweet_treats": {
+      "brownie": 58,
+      "chocolate": 56,
+      "cookie": 60,
+      "candy": 53
+    },
+    "oat milk": {
+      "oat milk": 58
+    },
+    "brazil nuts": {
+      "brazil nuts": 51
+    },
+    "cold_beverages": {
+      "soda": 54,
+      "juice": 44,
+      "smoothie": 49
+    },
+    "dragon fruit": {
+      "dragon fruit": 55
+    },
+    "beef": {
+      "brisket": 46
+    },
+    "short ribs": {
+      "short ribs": 49
+    },
+    "hot sauce": {
+      "hot sauce": 53
+    },
+    "hot_beverages": {
+      "tea": 56,
+      "coffee": 52,
+      "espresso": 60
+    },
+    "wheat": {
+      "wheat": 58
+    },
+    "swiss cheese": {
+      "swiss cheese": 55
+    },
+    "goat cheese": {
+      "goat cheese": 51
+    },
+    "rice noodles": {
+      "rice noodles": 49
+    },
+    "sweeteners": {
+      "honey": 54,
+      "jam": 53
+    },
+    "parmesan cheese": {
+      "parmesan cheese": 58
+    },
+    "chicken liver": {
+      "chicken liver": 44
+    },
+    "pinto beans": {
+      "pinto beans": 49
+    },
+    "cream_products": {
+      "butter": 54
+    },
+    "fish_products": {
+      "roe": 57,
+      "caviar": 51
+    },
+    "passion fruit": {
+      "passion fruit": 55
+    },
+    "cheddar cheese": {
+      "cheddar cheese": 53
+    },
+    "split peas": {
+      "split peas": 53
+    },
+    "yogurt": {
+      "yogurt": 52
+    },
+    "star fruit": {
+      "star fruit": 58
+    },
+    "soy sauce": {
+      "soy sauce": 55
+    },
+    "beans": {
+      "beans": 48,
+      "chickpeas": 50
+    },
+    "chicken wing": {
+      "chicken wing": 45
+    },
+    "heavy cream": {
+      "heavy cream": 52
+    },
+    "corn": {
+      "corn": 54
+    },
+    "sunflower seeds": {
+      "sunflower seeds": 51
+    },
+    "asian_dishes": {
+      "sushi": 56,
+      "ramen": 52,
+      "dumplings": 53,
+      "pho": 51
+    },
+    "frozen yogurt": {
+      "frozen yogurt": 56
+    },
+    "artichoke": {
+      "artichoke": 56
+    },
+    "asparagus": {
+      "asparagus": 52
+    },
+    "celery": {
+      "celery": 54
+    },
+    "banana": {
+      "banana": 54
+    },
+    "chicken thigh": {
+      "chicken thigh": 44
+    },
+    "cashew butter": {
+      "cashew butter": 46
+    },
+    "bok choy": {
+      "bok choy": 53
+    },
+    "sour cream": {
+      "sour cream": 56
+    },
+    "coconut water": {
+      "coconut water": 54
+    },
+    "ginger": {
+      "ginger": 57
+    },
+    "soba noodles": {
+      "soba noodles": 46
+    },
+    "grape": {
+      "grape": 57
+    },
+    "pork ribs": {
+      "pork ribs": 55
+    },
+    "squash": {
+      "zucchini": 52
+    },
+    "soy milk": {
+      "soy milk": 51
+    },
+    "whole chicken": {
+      "whole chicken": 49
+    },
+    "kidney beans": {
+      "kidney beans": 49
+    },
+    "rice milk": {
+      "rice milk": 49
+    },
+    "persimmon": {
+      "persimmon": 58
+    },
+    "pork shoulder": {
+      "pork shoulder": 44
+    },
+    "almond butter": {
+      "almond butter": 51
+    },
+    "pork belly": {
+      "pork belly": 51
+    },
+    "cooking_oils": {
+      "oil": 50
+    },
+    "pumpkin seeds": {
+      "pumpkin seeds": 53
+    }
+  }
+}
