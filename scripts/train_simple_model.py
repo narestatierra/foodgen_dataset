@@ -67,10 +67,8 @@ class SimpleFoodTrainer:
                     # for MAC M1, use keras.optimizers.legacy.Adam otherwise keras.optimizers.Adam
                     
                     model.compile(
-                        optimizer=keras.optimizers.legacy.SGD(  # Prova SGD invece di Adam!
-                            learning_rate=0.01,
-                            momentum=0.9,
-                            nesterov=True
+                        optimizer=keras.optimizers.legacy.Adam(  # Prova SGD invece di Adam!
+                            learning_rate=lr
                         ),
                         loss='categorical_crossentropy',
                         metrics=['accuracy']
@@ -236,7 +234,7 @@ class SimpleFoodTrainer:
         # Compile with transfer learning optimized settings
         learning_rate = self._get_optimal_learning_rate()
         model.compile(
-            optimizer=keras.optimizers.legacy.SGD(learning_rate=learning_rate, momentum=0.9, nesterov=True),
+            optimizer=keras.optimizers.legacy.Adam(learning_rate=learning_rate),
             loss='categorical_crossentropy',
             metrics=['accuracy']  # Removed top_5_accuracy for compatibility
         )
@@ -417,10 +415,8 @@ class SimpleFoodTrainer:
         fine_tune_lr = base_lr / config['lr_divisor']
         
         model.compile(
-            optimizer=keras.optimizers.legacy.SGD(  # Prova SGD invece di Adam!
-                learning_rate=fine_tune_lr,
-                momentum=0.9,
-                nesterov=True
+            optimizer=keras.optimizers.legacy.Adam(  # Prova SGD invece di Adam!
+                learning_rate=fine_tune_lr
             ),
             loss='categorical_crossentropy',
             metrics=['accuracy']  # Removed top_5_accuracy for compatibility
