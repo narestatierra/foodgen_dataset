@@ -1,0 +1,71 @@
+# FoodGenius Large-Scale Training Requirements
+# ===========================================
+
+# Core ML Framework
+tensorflow==2.13.0
+tensorflow-metal==1.2.0
+tensorflow-macos==2.13.0
+tensorflow-addons==0.23.0
+tensorflow-hub==0.16.0
+
+# Web Scraping
+ddgs==9.4.3
+
+# Computer Vision
+opencv-python==4.8.1.78
+Pillow==10.0.1
+scikit-image==0.21.0
+
+# Data Processing
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+
+# Visualization & Monitoring
+matplotlib==3.7.2
+seaborn==0.12.2
+tensorboard==2.13.0
+wandb==0.15.8
+
+# Data Collection & Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+scrapy==2.10.1
+selenium==4.13.0
+
+# Image Processing & Augmentation
+albumentations==1.3.1
+imgaug==0.4.0
+
+# Utilities
+tqdm==4.66.1
+click==8.1.8
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Model Optimization
+tensorflow-model-optimization==0.7.3
+
+# Distributed Training (Optional)
+#horovod==0.28.1
+
+# Cloud Storage (Optional)
+#google-cloud-storage==2.10.0
+boto3==1.28.57
+
+# Development Tools
+jupyter==1.0.0
+ipython==8.15.0
+pytest==7.4.2
+black==23.7.0
+flake8==6.0.0
+mypy==1.5.1
+
+# GPU Support (Optional - install separately)
+#tensorflow-gpu==2.13.0
+
+# Production Deployment
+gunicorn==21.2.0
+flask==2.3.3
+redis==4.6.0
+celery==5.3.1
